@@ -1,0 +1,7 @@
+langchain-community
+langchain
+crewai
+duckduckgo-search
+gradio
+langchain-core
+langchain_google_genai
